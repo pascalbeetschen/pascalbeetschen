@@ -7,8 +7,8 @@ IT process automation
 Powershell, C#
 
 - 📫 How to reach me ...
-https://github.com/pascalbeetschen
-https://www.codingame.com/profile/eccbccecdf8dfb1f669be4f7a2778fa96709934
+-> https://github.com/pascalbeetschen
+-> https://www.codingame.com/profile/eccbccecdf8dfb1f669be4f7a2778fa96709934
 
 
 
