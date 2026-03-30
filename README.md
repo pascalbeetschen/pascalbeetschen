@@ -4,7 +4,7 @@
 IT process automation
 
 - 🌱 I’m currently learning
-Powershell, C#
+Powershell, C#, .bicep
 
 - 📫 How to reach me ...
 
